@@ -15,6 +15,7 @@ Die Herkunft beschreibt mindestens die Quelle von der die Akzession bezogen wurd
 ### Quelle
 Hinter einer Quelle verbirgt sich eine Person, eine Institution (Botanischer Garten, Saatgut Bank, DNA Bank, usw.) oder eine kommerzielle Quelle. Weitere Informationen zur Quellen Datenbank findest du [hier].
 ### Gerechte und Ausgewogene Beteiligung an Entstandenen Vorteilen durch die Nutzung exotischer Akzessionen
+* http://www.cbd.int/abs/
 * Link zur deutschen / europäischen Implementierung
 * Link zum Nagoya Protokoll
 ### Zusätzliche Angaben zur Herkunft
