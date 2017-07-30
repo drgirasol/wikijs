@@ -3,4 +3,4 @@
 
 # Philosophy
 # Projects
-* NickLab - Management of a botanic collection and scientific data integration
+* NickLab: Botanic Collections - Management and Data Integration
