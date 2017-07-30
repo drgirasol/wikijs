@@ -3,4 +3,4 @@
 
 # Philosophy
 # Projects
-* NickLab: Botanic Collections - Management and Data Integration
+* [NickLab](/nicklab): Botanic Collections - Management and Data Integration
