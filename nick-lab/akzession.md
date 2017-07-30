@@ -19,5 +19,5 @@ Hinter einer Quelle verbirgt sich eine Person, eine Institution (Botanischer Gar
 * [Nagoya-Protokoll (Nutzung genetischer Ressourcen)](http://www.bfn.de/index_abs.html) :de:
 ### Zusätzliche Angaben zur Herkunft
 1. **Sammel Ort**: Land, Region, Ort, Koordinaten
-2. **IPEN**: Der [IPEN](http://www.bgci.org/policy/ipen/) Schlüssel für den erleichterten CBD konformen Austausch von Pflanzenmaterial zwischen botanischen Gärten. Der Schlüssel wird automatisch für jede Akzession generiert oder von der Quelle bereit gestellt.
+2. **IPEN**: Der [IPEN](http://www.bgci.org/policy/ipen/) Schlüssel für den [CBD](https://de.wikipedia.org/wiki/Biodiversit%C3%A4ts-Konvention) konformen Austausch von Pflanzenmaterial zwischen botanischen Gärten. Der Schlüssel wird automatisch für jede Akzession generiert oder von der Quelle bereit gestellt.
 3. **Notiz**: Eine Notiz zur Herkunft der Akzession
