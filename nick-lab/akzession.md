@@ -1,5 +1,5 @@
-<!-- TITLE: Nicklab -->
-<!-- SUBTITLE: Verwaltung einer botanischen Sammlung und Integration gesammelter Daten -->
+<!-- TITLE: Akzession -->
+<!-- SUBTITLE: Was verstehen wir unter einer Akzession? -->
 
 # Akzessionen
 ![Img 0462](/uploads/nicklab/img-0462.jpg "Img 0462")
