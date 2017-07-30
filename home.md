@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: A-PART-OF-NATURE -->
+<!-- SUBTITLE: Although it often feels as if we were apart from nature, we are indeed part of nature! -->
 
-# Header
+# Projects
