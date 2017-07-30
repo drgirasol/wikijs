@@ -1,7 +1,7 @@
 <!-- TITLE: Akzession -->
 <!-- SUBTITLE: Was verstehen wir unter einer Akzession? -->
 
-# Akzessionen
+# Akzession
 ![Img 0462](/uploads/nicklab/img-0462.jpg "Img 0462")
 Eine Akzession zeichnet sich durch seine **Identität** in taxonomischer Hinsicht und durch seine **Herkunft** im geographischen Sinne aus. Die so beschriebene Einheit ist im Kontext der Biodiversität mindestens ein Individuum, kann aber - mit Bezug zur Methodik und Vererbung - auch eine DNA Probe sein. In der Praxis ist eine Akzession in vielen Fällen Saatgut dass wild oder in einem botanischen Garten gesammelt wurde und somit aus Nachkommen eines oder mehrere Individuuen (einer Population) bestehen kann.
 ## Identität
