@@ -12,7 +12,7 @@ Die **Identität** setzt sich mindestens aus dem wissenschaftlichen Namen der **
 ## Herkunft
 Die Herkunft beschreibt mindestens die Quelle von der die Akzession bezogen wurde. Damit soll sicher gestellt werden, dass bei Bedarf weitere Auskünfte eingeholt werden können. In vielen Fällen ist es allerdings ratsam Informationen zur geographischen Herkunft von vorneherein anzugeben. Studien zur Biodiversität oder Diagnostik bestimmter Gruppen erhalten ihren Wert erst durch ausreichend dokumentierte Referenzen. Dazu gehört je nach Verbreitung und phylogenetischer Struktur der Art das Herkunftsland und weitere Details zur geographischen Herkunft der Spender Population. Auch wenn der Rest der belebten Welt keine politischen Grenzen kennt, ist es zwingend erforderlich das Herkunftsland zu hinterlegen um eine gerechte und ausgewogene Beteiligung an entstehenden Vorteilen durch die Nutzung exotischer Akzessionen zu gewährleisten. 
 ### Quelle
-Hinter einer Quelle verbirgt sich eine Person, eine Institution (Botanischer Garten, Saatgut Bank, DNA Bank, usw.) oder eine kommerzielle Quelle. Weitere Informationen zur Quellen Datenbank findest du hier.
+Hinter einer Quelle verbirgt sich eine Person, eine Institution (Botanischer Garten, Saatgut Bank, DNA Bank, usw.) oder eine kommerzielle Quelle. Weitere Informationen zur Quellen Datenbank findest du [hier].
 ### Gerechte und Ausgewogene Beteiligung an Entstehenden Vorteilen durch die Nutzung exotischer Akzessionen
 * Link zur deutschen / europäischen Implementierung
 * Link zum Nagoya Protokoll
