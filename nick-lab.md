@@ -1,4 +1,10 @@
 <!-- TITLE: Nicklab -->
-<!-- SUBTITLE: A quick summary of Nicklab -->
+<!-- SUBTITLE: Verwaltung einer botanischen Sammlung und Integration gesammelter Daten -->
 
-# Header
+# Akzessionen
+Eine Akzession zeichnet sich durch seine Identität in taxonomischer Hinsicht und durch seine Herkunft im geographischen Sinne aus. Die so beschriebene Einheit ist im Kontext der Biodiversität mindestens ein Individuum, kann aber - mit Bezug zur Methodik und Vererbung auch eine DNA Probe sein. In der Praxis ist eine Akzession in vielen Fällen Saatgut dass wild oder in einem botanischen Garten gesammelt wurde und somit aus Nachkommen eines oder mehrere Individuuen (einer Population) bestehen kann.
+## Identität
+Die Identität setzt sich mindestens aus dem wissenschaftlichen Namen der Familie und der Gattung zusammen. Zusätzlich kann der Artname und infraspezifische Namen (laut TPL und EOL) angegeben werden. Manuell können außerdem ein agronomischer Typ (cv. oder srt.) sowie dessen Bezeichnung hinterlegt werden.
+### Zusätzliche Angaben zur Identität
+Kürzel: z.B. ein Projekt internes Kürzel
+Notiz: eine Notiz zur Identität der Akzession
