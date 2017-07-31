@@ -5,5 +5,14 @@
 # Projects
 * [NickLab](/nick-lab): Botanic Collections - Management and Data Integration
 
+# Data Sources
+## Names
+### Life
+* [Encyclopedia of Life](http://www.eol.org)
+* [Catalogue of Life](http://www.catalogueoflife.org/)
+### Plants
+* [The Plant List](http://www.theplantlist.org/)
+## Images
+* [Encyclopedia of Life](http://www.eol.org)
 # Tools
 * [Treant.js](http://fperucic.github.io/treant-js/): JavaScipt library for visualization of tree diagrams
