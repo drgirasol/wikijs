@@ -14,6 +14,8 @@
 * [The Plant List](http://www.theplantlist.org/)
 ## Taxonomy
 * [Tree of Life Web Project](http://tolweb.org/tree/)
+## Collections
+* [Natural History Museum, London](http://data.nhm.ac.uk/)
 ## Images
 * [Encyclopedia of Life](http://www.eol.org)
 # Tools
