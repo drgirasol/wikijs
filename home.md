@@ -4,3 +4,6 @@
 # Philosophy
 # Projects
 * [NickLab](/nick-lab): Botanic Collections - Management and Data Integration
+
+# Tools
+* [Treant.js](http://fperucic.github.io/treant-js/): JavaScipt library for visualization of tree diagrams
