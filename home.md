@@ -18,5 +18,12 @@
 * [Natural History Museum, London](http://data.nhm.ac.uk/)
 ## Images
 * [Encyclopedia of Life](http://www.eol.org)
+
+# Community of Interest
+## Plants
+* [Deutsche Botanische Gesellschaft (DBG) e.V., Berlin](https://www.deutsche-botanische-gesellschaft.de/)
+## Animals
+### Insekten
+* [Entomologischer Verein Krefeld e.V. 1905](http://www.entomologica.org/)
 # Tools
 * [Treant.js](http://fperucic.github.io/treant-js/): JavaScipt library for visualization of tree diagrams
