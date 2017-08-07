@@ -4,7 +4,8 @@
 ## General (publicly funded)
 ### Germany
 **Baden-Württemberg**
-[LUBW Landesanstalt für Umwelt, Messungen und Naturschutz](https://www.lubw.baden-wuerttemberg.de)
+* [LUBW Landesanstalt für Umwelt, Messungen und Naturschutz](https://www.lubw.baden-wuerttemberg.de)
+ * [Ausschreibungen](http://www4.lubw.baden-wuerttemberg.de/servlet/is/32468/)
 ## Plants
 * [Deutsche Botanische Gesellschaft (DBG) e.V., Berlin](https://www.deutsche-botanische-gesellschaft.de)
 ## Animals
