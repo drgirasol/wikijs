@@ -18,7 +18,7 @@
   * **Baden-Württemberg**
     * [BUND Landesverband](https://www.bund-bawue.de/)
       * [Projekte](https://www.bund-bawue.de/themen/natur-landwirtschaft/aktiv-im-naturschutz/anna/)
-      * [Regionalverband Nordschwartzwald](http://www.bund-nordschwarzwald.de/)
+      * [Regionalverband Nordschwarzwald](http://www.bund-nordschwarzwald.de/)
     * [NABU Landesverband](https://baden-wuerttemberg.nabu.de/)
 ## Plants
 * [Deutsche Botanische Gesellschaft (DBG) e.V., Berlin](https://www.deutsche-botanische-gesellschaft.de/)
