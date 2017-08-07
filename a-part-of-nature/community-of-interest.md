@@ -3,7 +3,7 @@
 # Community of Interest
 ## General 
 ### public
-* Germany
+* **Germany**
   * [Deutsche Bundesstiftung Umwelt](https://www.dbu.de/)
     * [Förderung und Antragstellung](https://www.dbu.de/index.php?menuecms=2505)
   * **Baden-Württemberg**
