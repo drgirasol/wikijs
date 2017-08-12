@@ -3,7 +3,14 @@
 
 # Index
 * [Philosophy](/a-part-of-nature/philosophy)
-* [Data Sources](/a-part-of-nature/data-sources)
-* [Data Analysis](/a-part-of-nature/data-analysis)
-* [Community of Interest](/a-part-of-nature/community-of-interest)
-* [Tools](/a-part-of-nature/tools)
+* [Explore](/a-part-of-nature/exploration)
+  * Modules
+    * [Names](/a-part-of-nature/exploration/names)
+* [Observe](/a-part-of-nature/observation)
+* [Analyse](/a-part-of-nature/data-analysis)
+  * Modules
+    * [DNA](/a-part-of-nature/data-analysis/DNA)
+* Addendum
+  * [Data Sources](/a-part-of-nature/data-sources)
+  * [Community of Interest](/a-part-of-nature/community-of-interest)
+  * [Tools](/a-part-of-nature/tools)
