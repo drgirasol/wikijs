@@ -5,7 +5,7 @@
 ## Traits
 **Wiki-Trait-Collector**
 * The trait collector retrieves the section of wiki articles (e.g. "botanical description") about a particular group of organisms. Words appearing in this sections are displayed and the user may exclude words that are not related to diagnostic traits. The final list of words can be imported into a collection of traits relevant for the identification of members of the group. When uploading oberservation images, these traits function as guide to what should be visible in the images. 
-* [Wikidata Query Service](https://query.wikidata.org/) offers quite something in terms of exploring data. Not sure if it would be useful for trait extraction though.
+* [Wikidata Query Service](https://query.wikidata.org/) offers quite something in terms of exploring data. Not sure if it would be useful for trait extraction yet.
 
 # Study of Form
 * **MorphoJ**
