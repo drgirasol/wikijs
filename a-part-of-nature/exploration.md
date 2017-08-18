@@ -7,3 +7,4 @@ There are many ways to explore biodiversity. By far the most valuable approach i
 # Modules
 * [Names](/a-part-of-nature/exploration/names)
 * [Relations](/a-part-of-nature/exploration/relations)
+* [Keys](/a-part-of-nature/exploration/keys)
