@@ -4,12 +4,10 @@
 # Index
 * [Philosophy](/a-part-of-nature/philosophy)
 * [Explore](/a-part-of-nature/exploration)
-  * Modules
-    * [Names](/a-part-of-nature/exploration/names)
+  * [Names](/a-part-of-nature/exploration/names)
 * [Observe](/a-part-of-nature/observation)
 * [Analyse](/a-part-of-nature/data-analysis)
-  * Modules
-    * [DNA](/a-part-of-nature/data-analysis/DNA)
+  * [DNA](/a-part-of-nature/data-analysis/DNA)
 * Addendum
   * [Data Sources](/a-part-of-nature/data-sources)
   * [Community of Interest](/a-part-of-nature/community-of-interest)
