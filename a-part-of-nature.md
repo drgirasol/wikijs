@@ -5,6 +5,7 @@
 * [Philosophy](/a-part-of-nature/philosophy)
 * [Explore](/a-part-of-nature/exploration)
   * [Names](/a-part-of-nature/exploration/names)
+  * [Relations](/a-part-of-nature/exploration/relations)
 * [Observe](/a-part-of-nature/observation)
 * [Analyse](/a-part-of-nature/data-analysis)
   * [DNA](/a-part-of-nature/data-analysis/DNA)
