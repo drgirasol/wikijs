@@ -7,7 +7,7 @@
 * [Catalogue of Life](http://www.catalogueoflife.org/)
 ### Plants
 * [The Plant List](http://www.theplantlist.org/)
-## Taxonomy
+## Phylogeny & Taxonomy
 * [Tree of Life Web Project](http://tolweb.org/tree/)
 ## Observations
 * [Natural History Museum, London](http://data.nhm.ac.uk/)
