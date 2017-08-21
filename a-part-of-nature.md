@@ -11,6 +11,7 @@
 * [Analyse](/a-part-of-nature/data-analysis)
   * [DNA](/a-part-of-nature/data-analysis/DNA)
 * Addendum
+* * [Community of Interest](/a-part-of-nature/community-of-interest)
   * [Data Sources](/a-part-of-nature/data-sources)
-  * [Community of Interest](/a-part-of-nature/community-of-interest)
+  * [Ontologies](/a-part-of-nature/ontologies)
   * [Tools](/a-part-of-nature/tools)
