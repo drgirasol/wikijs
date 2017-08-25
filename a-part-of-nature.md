@@ -1,5 +1,5 @@
 <!-- TITLE: A-PART-OF-NATURE -->
-<!-- SUBTITLE: Although it often feels as if we were apart from nature, we are indeed a part of nature! Bla-->
+<!-- SUBTITLE: Although it often feels as if we were apart from nature, we are indeed a part of nature! -->
 # Index
 * [Philosophy](/a-part-of-nature/philosophy)
 * [Explore](/a-part-of-nature/exploration)
