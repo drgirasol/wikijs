@@ -22,6 +22,7 @@
     * [NABU Landesverband](https://baden-wuerttemberg.nabu.de/)
 ## Plants
 * [Deutsche Botanische Gesellschaft (DBG) e.V., Berlin](https://www.deutsche-botanische-gesellschaft.de/)
+* [International Plant Phenotyping Network - IPPN](https://www.plant-phenotyping.org/)
 ## Animals
 ### Insekten
 * [Entomologischer Verein Krefeld e.V. 1905](http://www.entomologica.org/)
