@@ -20,3 +20,8 @@
   * [Data Sources](/a-part-of-nature/data-sources)
   * [Ontologies](/a-part-of-nature/ontologies)
   * [Tools](/a-part-of-nature/tools)
+
+* [Explore](/a-part-of-nature/exploration)
+  * [Names](/a-part-of-nature/exploration/names)
+  * [Relations](/a-part-of-nature/exploration/relations)
+  * [Keys](/a-part-of-nature/exploration/keys)
