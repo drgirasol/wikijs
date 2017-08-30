@@ -6,10 +6,11 @@ Jeder Akzession ist ein bestimmter Name zugewiesen. Das ist entweder ein Art Nam
 
 ![Optionverifiziert](/uploads/nicklab/optionverifiziert.png "Optionverifiziert"){.align-center}
 # Aktueller Status der Namenszuordnung
+## Detail Ansicht
 In der [Detail Ansicht](/nick-lab/accession-detail-view) zu einer Akzession findet man unter Taxonomy einen Hinweis zum aktuellen Status der Namenszuodnung.
 
 ![Statusverificationdetailview](/uploads/nicklab/statusverificationdetailview.png "Statusverificationdetailview"){.align-center}
-
+## Listen Ansicht
 In der [Listen Ansicht](/nick-lab/accession-list-view) findet man die Spalte Identität, in der über Symbole und deren Färbung der aktuelle Status der Namenszuordnung erkannt werden kann:
 * grüner Haken = Identität wurde verifiziert und Angaben zur Methodik wurden hinterlegt.
 * orangener Haken = Identität wurde verifiziert. Angaben zur Methodik fehlen.
