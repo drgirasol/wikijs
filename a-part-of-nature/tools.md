@@ -3,5 +3,9 @@
 # Tools
 * [Treant.js](http://fperucic.github.io/treant-js/): A JavaScipt library for visualization of tree diagrams.
 * [Processing.js](http://processingjs.org/): Makes your data visualizations, digital art, interactive animations, educational graphs, video games, etc. work using web standards.
+## Image processing
 * [jimp](https://www.npmjs.com/package/jimp): The "JavaScript Image Manipulation Program". An image processing library for Node written entirely in JavaScript, with zero external or native dependencies.
 * [GraphicsMagick](http://aheckmann.github.io/gm/): GraphicsMagick and ImageMagick for node.
+* [DropZone](http://www.dropzonejs.com/): DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
+  * [HowTo DropZone+Laravel](https://maxoffsky.com/code-blog/howto-ajax-multiple-file-upload-in-laravel/)
+* [Intervention Image](http://image.intervention.io/): Intervention Image is an open source PHP image handling and manipulation library. It provides an easier and expressive way to create, edit, and compose images and supports currently the two most common image processing libraries GD Library and Imagick.
