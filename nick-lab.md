@@ -6,4 +6,4 @@
 * [Woher haben wir eine Akzession?](/nick-lab/quellen)
 
 # Details
-* [Woran erkenne ich, ob und wie die Identiät einer Akzession verifiziert wurde?](/nick-lab/identity-verification)
+* [Woran erkenne ich, ob und wie die Identität einer Akzession verifiziert wurde?](/nick-lab/identity-verification)
