@@ -2,6 +2,7 @@
 <!-- SUBTITLE: A quick summary of Ontologies -->
 
 # Ontologies
+## General
 * [The National Center for Biomedical Ontology](https://www.bioontology.org/)
 * [Science Environment for Ecological Knowledge - SEEK](http://seek.ecoinformatics.org/Wiki.jsp%3Fpage=SEEKObservationOntology.html): A system designed to facilitate not only data acquisition and archiving, but integrating, transforming, analyzing, and synthesizing ecological and biodiversity data that was previously intractable.
 * [OBO - Phenotypic quality](http://www.obofoundry.org/ontology/pato.html): Phenotypic qualities (properties). This ontology can be used in conjunction with other ontologies such as GO or anatomical ontologies to refer to phenotypes. Examples of qualities are red, ectopic, high temperature, fused, small, edematous and arrested.
