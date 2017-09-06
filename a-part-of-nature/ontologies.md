@@ -3,6 +3,7 @@
 
 # Ontologies
 ## General
+* [schema.org](https://schema.org/): Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model.
 * [The National Center for Biomedical Ontology](https://www.bioontology.org/)
 * [Science Environment for Ecological Knowledge - SEEK](http://seek.ecoinformatics.org/Wiki.jsp%3Fpage=SEEKObservationOntology.html): A system designed to facilitate not only data acquisition and archiving, but integrating, transforming, analyzing, and synthesizing ecological and biodiversity data that was previously intractable.
 * [OBO - Phenotypic quality](http://www.obofoundry.org/ontology/pato.html): Phenotypic qualities (properties). This ontology can be used in conjunction with other ontologies such as GO or anatomical ontologies to refer to phenotypes. Examples of qualities are red, ectopic, high temperature, fused, small, edematous and arrested.
