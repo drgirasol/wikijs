@@ -4,14 +4,14 @@
 # Benutzergruppen
 ## Admin
 ## Staff
-* Garten Personal und Post-Docs
+* Garten Personal, Post-Doc
 * Kann zusätzlich alle Einträge bearbeiten.
 ## Editor
-* Doktoranden, Gast-Wissenschaftler und BA/MA Studenten (F3 Studenten)
+* Doktorand, Gast-Wissenschaftler, BA/MA Student(, F3 Student)
 * Kann internen Bereich sehen, neue Einträge erstellen und editieren (außer Standorte), und Daten hochladen.
 ## Provider
-* Verifizierter Benutzer anderer Institutionen (IPEN / Universität).
-* Kann zusätzlich den [Index Seminum](/nick-lab/index-seminum) sehen sowie "seine" Akzessionen und entsprechende Daten.
+* Verifizierter Benutzer anderer Institution (IPEN / Universität).
+* Kann zusätzlich den [Index Seminum](/nick-lab/index-seminum) sehen und bestellen. Außerdem lesenden Zugriff auf "seine" Akzessionen und assoziierte Daten.
 ## Registrierter Benutzer
 * Jeder
 * Kann öffentliches sehen.
