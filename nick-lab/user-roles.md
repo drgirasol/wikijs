@@ -11,7 +11,7 @@
 * Kann internen Bereich sehen, neue Einträge erstellen und editieren (außer Standorte), und Daten hochladen.
 ## Provider
 * Verifizierter Benutzer anderer Institutionen (IPEN / Universität).
-* Kann zusätzlich "seine" Akzessionen und entsprechende Daten sehen.
+* Kann zusätzlich den [Index Seminum](/nick-lab/index-seminum) sehen sowie "seine" Akzessionen und entsprechende Daten.
 ## Registrierter Benutzer
 * Jeder
 * Kann öffentliches sehen.
