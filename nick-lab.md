@@ -7,3 +7,4 @@
 
 # Details
 * [Woran erkenne ich, ob und wie die Identität einer Akzession verifiziert wurde?](/nick-lab/identity-verification)
+* [Benutzergruppen](/nick-lab/user-roles)
