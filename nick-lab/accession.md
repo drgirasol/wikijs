@@ -2,7 +2,8 @@
 <!-- SUBTITLE: A quick summary of Accession -->
 
 # Allgemeine Hinweise
-
+* [Was verstehen wir unter einer Akzession?](/nick-lab/akzession)
+* [Woher haben wir eine Akzession?](/nick-lab/quellen)
 # Detail Ansicht
 Zur Detail Ansicht einer Akzession gelangt man über die Listen Ansicht (Stöbern).
 ## Identität
