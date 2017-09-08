@@ -1,6 +1,8 @@
 <!-- TITLE: Accession -->
 <!-- SUBTITLE: A quick summary of Accession -->
 
+# Allgemeine Hinweise
+
 # Detail Ansicht
 Zur Detail Ansicht einer Akzession gelangt man über die Listen Ansicht (Stöbern).
 ## Identität
