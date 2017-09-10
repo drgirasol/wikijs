@@ -23,7 +23,10 @@
 ## Ecology
 * [ecoinformatics.org](http://www.ecoinformatics.org/): Is an open, voluntary collaboration of developers and researchers that aims to produce software, systems, publications, and services that are beneficial to the ecological and environmental sciences.
 ## Plants
+### Germany
+* [Arnulfs Naturwelt](http://arnulfs-naturwelt.de/)
 * [Deutsche Botanische Gesellschaft (DBG) e.V., Berlin](https://www.deutsche-botanische-gesellschaft.de/)
+### International
 * [International Plant Phenotyping Network - IPPN](https://www.plant-phenotyping.org/)
 ## Animals
 ### Insekten
