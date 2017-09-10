@@ -15,6 +15,6 @@ A specimen was observed at a specific location and at a certain time of the year
     * [Arnulfs Naturwelt](http://arnulfs-naturwelt.de/): Author
   * [Flora von Deutschland](http://www.blumeninschwaben.de/): Web App +Images +Taxa
   * [Offene Naturführer - Bestimmungsschlüssel für die Familien der Ackerpflanzen](https://offene-naturfuehrer.de/web/Bestimmungsschl%C3%BCssel_f%C3%BCr_die_Pflanzenfamilien_(Heinrich_Hofmeister_&_Eckhard_Garve)): Web App
-  * [Pflanzen bestimmen](https://pflanzenbestimmung.info): Web App, +Images +Groups
+  * [Pflanzen bestimmen](https://pflanzenbestimmung.info): Web App +Images +Groups
 
 
