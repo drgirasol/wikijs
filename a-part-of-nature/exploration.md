@@ -14,4 +14,4 @@ One way to explore biodiversity is to enter the realm of [names](/a-part-of-natu
 
 Classical keys are usually based on morphological traits that can be perceived without (or only limited) technolgical means. Additionally, these keys focus on certain taxonomic or geographic groups and assume that the specimen is whole and / or in a certain developmental stage. As morphological species are established by a generalized description of a species (as whole), the successful identification of specimens requires all diagnostic features to be available. By introducing constraints / filters (geographic, temporal, ecological) and subsequent re-evaluation of the diagnostic feature domain, identifications with a fraction of original features are possible.
 
-The development of such keys and the implementation of a **keymaker** is the aim of this module. [More](http://wiki.apartofnature.org/a-part-of-nature/exploration/keys#example).
+The development of such keys and the implementation of a **keymaker** is the aim of this module. [More](/a-part-of-nature/exploration/keys#example).
