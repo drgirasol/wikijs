@@ -12,12 +12,13 @@ A specimen was observed at a specific location and at a certain time of the year
 # Sources
 ## International
 * [PlantNet](http://identify.plantnet-project.org/): Web App +Android App +Apple App +Images +Recognition
+* [NatureGate](http://www.luontoportti.com/suomi/): Web App +Apple App +Geographic Integration +Temporal Integration
 ## Germany
   * [Pflanzen in Deutschland](http://www.pflanzen-bestimmung.de/): Web App +Apple App
     * [Arnulfs Naturwelt](http://arnulfs-naturwelt.de/): Author
   * [Flora von Deutschland](http://www.blumeninschwaben.de/): Web App +Images +Taxa
   * [Offene Naturführer - Bestimmungsschlüssel für die Familien der Ackerpflanzen](https://offene-naturfuehrer.de/web/Bestimmungsschl%C3%BCssel_f%C3%BCr_die_Pflanzenfamilien_(Heinrich_Hofmeister_&_Eckhard_Garve)): Web App
   * [Pflanzen bestimmen](https://pflanzenbestimmung.info): Web App +Images +Groups
-  * [Pflanzenbestimmung](http://www.pflanzenbestimmung.de/site/): Web App +Images -Upgrade
+  * [Pflanzenbestimmung](http://www.pflanzenbestimmung.de/site/): Web App +Images +Color Integration -Upgrade
 
 
