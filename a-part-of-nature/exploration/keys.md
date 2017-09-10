@@ -8,7 +8,7 @@ Classical keys are usually based on morphological traits that can be perceived w
 
 The development of such keys and the implementation of a **keymaker** is the aim of this module.
 # Example
-A specimen was observed at a specific location and time of the year. The location is associated with a particular biotope
+A specimen was observed at a specific location and at a certain time of the year. The location is associated with a particular habitat and in that time of the year with a particular climatic condition. Considering all available information (e.g. past observations, species descriptions, habitat and climatic associations) we can compile a list by excluding or including species accordingly. The list can be refined further by user input (e.g. taxonomy, traits, etc.).
 # Sources
 * Germany
   * [Pflanzen in Deutschland](http://www.pflanzen-bestimmung.de/): Apple App
