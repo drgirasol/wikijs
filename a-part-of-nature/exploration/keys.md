@@ -12,7 +12,7 @@ A specimen was observed at a specific location and time of the year. The locatio
 # Sources
 * Germany
   * [Pflanzen in Deutschland](http://www.pflanzen-bestimmung.de/): Apple App
-    * [Arnulfs Naturwelt](http://arnulfs-naturwelt.de/)
+    * [Arnulfs Naturwelt](http://arnulfs-naturwelt.de/): Author
   * [Flora von Deutschland](http://www.blumeninschwaben.de/): Web App
   * [Offene Naturführer - Bestimmungsschlüssel für die Familien der Ackerpflanzen](https://offene-naturfuehrer.de/web/Bestimmungsschl%C3%BCssel_f%C3%BCr_die_Pflanzenfamilien_(Heinrich_Hofmeister_&_Eckhard_Garve)): Web App
 
