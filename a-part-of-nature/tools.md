@@ -12,3 +12,4 @@
 * [DropZone](http://www.dropzonejs.com/): DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
   * [HowTo DropZone+Laravel](https://maxoffsky.com/code-blog/howto-ajax-multiple-file-upload-in-laravel/)
 * [Intervention Image](http://image.intervention.io/): Intervention Image is an open source PHP image handling and manipulation library. It provides an easier and expressive way to create, edit, and compose images and supports currently the two most common image processing libraries GD Library and Imagick.
+* [XnConvert](http://www.xnview.com/de/xnconvert/): XnConvert ist ein effektiver und kostenfreier plattformübergreifender Batch-Dienst für Bilder, der es erlaubt über 80 Aktionen zu kombinieren. Kompatibel mit 500 Bildformaten.
