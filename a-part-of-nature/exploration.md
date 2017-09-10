@@ -15,13 +15,3 @@ One way to explore biodiversity is to enter the realm of [names](/a-part-of-natu
 Classical keys are usually based on morphological traits that can be perceived without (or only limited) technolgical means. Additionally, these keys focus on certain taxonomic or geographic groups and assume that the specimen is whole and / or in a certain developmental stage. As morphological species are established by a generalized description of a species (as whole), the successful identification of specimens requires all diagnostic features to be available. By introducing constraints / filters (geographic, temporal, ecological) and subsequent re-evaluation of the diagnostic feature domain, identifications with a fraction of original features are possible.
 
 The development of such keys and the implementation of a **keymaker** is the aim of this module.
-### Example
-A specimen was observed at a specific location and time of the year. The location is associated with a particular biotope
-### Sources
-* Germany
-  * [Pflanzen in Deutschland](http://www.pflanzen-bestimmung.de/): Apple App
-    * [Arnulfs Naturwelt](http://arnulfs-naturwelt.de/)
-  * [Flora von Deutschland](http://www.blumeninschwaben.de/): Web App
-  * [Offene Naturführer - Bestimmungsschlüssel für die Familien der Ackerpflanzen](https://offene-naturfuehrer.de/web/Bestimmungsschl%C3%BCssel_f%C3%BCr_die_Pflanzenfamilien_(Heinrich_Hofmeister_&_Eckhard_Garve)): Web App
-
-
