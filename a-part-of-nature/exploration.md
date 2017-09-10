@@ -10,5 +10,6 @@ There are many ways to explore biodiversity. By far the most valuable approach i
 * [Keys](/a-part-of-nature/exploration/keys)
 # Sources
 * Germany
+  * [Flora von Deutschland (blumeninschwaben.de)](http://www.blumeninschwaben.de/)
 	* Rheinland-Pfalz
 		* [ArtenFinder Service-Portal Rheinland-Pfalz](http://artenfinder.rlp.de)
