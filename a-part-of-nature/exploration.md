@@ -8,10 +8,3 @@ There are many ways to explore biodiversity. By far the most valuable approach i
 * [Names](/a-part-of-nature/exploration/names)
 * [Relations](/a-part-of-nature/exploration/relations)
 * [Keys](/a-part-of-nature/exploration/keys)
-# Sources
-* Germany
-  * [Pflanzen in Deutschland](http://www.pflanzen-bestimmung.de/): Apple App
-    * [Arnulfs Naturwelt](http://arnulfs-naturwelt.de/)
-  * [Flora von Deutschland](http://www.blumeninschwaben.de/): Web App
-	* Rheinland-Pfalz
-		* [ArtenFinder Service-Portal Rheinland-Pfalz](http://artenfinder.rlp.de):
