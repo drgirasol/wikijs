@@ -1,3 +1,4 @@
+
 <!-- TITLE: A-PART-OF-NATURE -->
 <!-- SUBTITLE: Although it often feels as if we were apart from nature, we are indeed a part of nature! -->
 # Index
@@ -14,4 +15,5 @@
   * [Community of Interest](/a-part-of-nature/community-of-interest)
   * [Data Sources](/a-part-of-nature/data-sources)
   * [Ontologies](/a-part-of-nature/ontologies)
+  * [Service](/a-part-of-nature/service)
   * [Tools](/a-part-of-nature/tools)
