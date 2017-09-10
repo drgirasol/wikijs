@@ -2,11 +2,7 @@
 <!-- SUBTITLE: A quick summary of Data Sources -->
 # Data Sources
 ## Names
-### Life
-* [Encyclopedia of Life](http://www.eol.org)
-* [Catalogue of Life](http://www.catalogueoflife.org/)
-### Plants
-* [The Plant List](http://www.theplantlist.org/)
+* [Explore](/a-part-of-nature/exploration/names#sources)
 ## Phylogeny & Taxonomy
 * [Tree of Life Web Project](http://tolweb.org/tree/)
 ## Observations
