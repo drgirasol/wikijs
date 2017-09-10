@@ -11,7 +11,7 @@ The development of such keys and the implementation of a **keymaker** is the aim
 A specimen was observed at a specific location and at a certain time of the year. The location is associated with a particular habitat and in that time of the year with a particular climatic condition. Considering all available information (e.g. past observations, species descriptions, habitat and climatic associations) we can compile a list by excluding or including species accordingly. The list can be refined further by user input (e.g. taxonomy, traits, etc.).
 # Sources
 ## International
-* [PlantNet](http://identify.plantnet-project.org/): Web App +Android App +Apple App +Images
+* [PlantNet](http://identify.plantnet-project.org/): Web App +Android App +Apple App +Images +Recognition
 ## Germany
   * [Pflanzen in Deutschland](http://www.pflanzen-bestimmung.de/): Web App +Apple App
     * [Arnulfs Naturwelt](http://arnulfs-naturwelt.de/): Author
