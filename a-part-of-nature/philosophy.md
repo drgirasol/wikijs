@@ -10,5 +10,5 @@ The following is my personal philosophy. It does not necessarily define where th
 
 ## What  is so bad about cars?
 Basically, cars are not bad. As is true for essentially all products, the monetary value of a car is unrealistic.
-Value is constructed by using common (known) factors (R&D, material, labor and energy) and other special (known) factors (e.g. toll, tax). What is missing are the unknown or ignored costs resulting from production, subsequent use and expiration of function.
+Value is constructed by using common (known) factors (R&D, material, labor and energy) and other special (known) factors (e.g. toll, tax). What is missing are unknown and underestimated costs resulting from production, subsequent use and expiration of function.
 Efficiency of a product is not taken into account appropriately.
