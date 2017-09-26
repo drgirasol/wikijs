@@ -2,6 +2,7 @@
 <!-- SUBTITLE: A quick summary of Applications -->
 
 # Server-side
+## Data annotation & integration
 * [Metacat](https://knb.ecoinformatics.org/knb/docs/): Metacat is a repository for data and metadata (documentation about data) that helps scientists find, understand and effectively use data sets they manage or that have been created by others.
 ## Geographic Information System
 * [Web Map Service](https://de.wikipedia.org/wiki/Web_Map_Service): Wiki Page on Web Map Service
