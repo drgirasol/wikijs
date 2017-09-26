@@ -2,6 +2,9 @@
 <!-- SUBTITLE: A quick summary of Applications -->
 
 # Server-side
+## Development
+* [Laravel](https://laravel.com/): PHP framework
+* [sproutcore](http://sproutcore.com/): SproutCore is the original JavaScript MVC library, kicking off the JS-MVC movement in 2007. Developed by Apple and maintained by a robust and growing community, it continues to power the web application revolution. More than a plugin, it builds on top of JavaScript to provide an application-style runtime and MVC object model inspired by the best ideas from Cocoa.
 ## Data annotation & integration
 * [Metacat](https://knb.ecoinformatics.org/knb/docs/): Metacat is a repository for data and metadata (documentation about data) that helps scientists find, understand and effectively use data sets they manage or that have been created by others.
 ## Geographic Information System
