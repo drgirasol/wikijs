@@ -22,6 +22,8 @@
     * [NABU Landesverband](https://baden-wuerttemberg.nabu.de/)
 ## Ecology
 * [ecoinformatics.org](http://www.ecoinformatics.org/): Is an open, voluntary collaboration of developers and researchers that aims to produce software, systems, publications, and services that are beneficial to the ecological and environmental sciences.
+## Funding
+* [opencollective](https://opencollective.org): 
 ## Plants
 ### Germany
 * [Arnulfs Naturwelt](http://arnulfs-naturwelt.de/)
