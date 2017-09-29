@@ -1,5 +1,5 @@
-<!-- TITLE: Service -->
-<!-- SUBTITLE: A quick summary of Service -->
+<!-- TITLE: Dienstleistungen -->
+<!-- SUBTITLE: Vorhaben bei denen ich helfen kann... -->
 
 # Zielgruppe
 Privatpersonen und Vereinigungen, welche die Rolle des Menschen als ein Teil der Natur ansehen und dies Rolle in die menschliche Welt kommunizieren wollen. Auf diesem Weg will ich unterstützen bei der Planung von Projekten, der Verwaltung von Sammlungen, der Überführung von Daten in die digitale Welt sowie deren Analyse und Veröffentlichung. Grundsätzlich ist es mein Ziel die Erforschung, Aufzeichnung und Analyse von Phänomenen der belebten Natur zu unterstützen. 
