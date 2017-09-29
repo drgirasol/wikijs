@@ -23,7 +23,8 @@
 ## Ecology
 * [ecoinformatics.org](http://www.ecoinformatics.org/): Is an open, voluntary collaboration of developers and researchers that aims to produce software, systems, publications, and services that are beneficial to the ecological and environmental sciences.
 ## Funding
-* [opencollective](https://opencollective.org): 
+* [BiodivERsA](http://www.biodiversa.org/): BiodivERsA is a network of national and regional funding organisations promoting pan-European research on biodiversity and ecosystem services, and offering innovative opportunities for the conservation and sustainable management of biodiversity. BiodivERsA is funded under the Horizon 2020 ERA-NET COFUND scheme.
+* [opencollective](https://opencollective.com/): An Open Collective is a group of people with a shared mission that operates in full transparency. Everyone can see how they receive or spend money. What can I do with Open Collective? Set up a page to collect membership fees or donations. Let your members submit expenses and reimburse them with a click. Give everyone visibility on your budget.
 ## Plants
 ### Germany
 * [Arnulfs Naturwelt](http://arnulfs-naturwelt.de/)
