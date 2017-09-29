@@ -6,6 +6,7 @@
 * **Germany**
   * [Deutsche Bundesstiftung Umwelt](https://www.dbu.de/)
     * [Förderung und Antragstellung](https://www.dbu.de/index.php?menuecms=2505)
+  * [Institut für Biodiversität](http://www.biodiv.de/)
   * **Baden-Württemberg**
     * [LUBW Landesanstalt für Umwelt, Messungen und Naturschutz](https://www.lubw.baden-wuerttemberg.de/)
       * [Ausschreibungen](http://www4.lubw.baden-wuerttemberg.de/servlet/is/32468/)
