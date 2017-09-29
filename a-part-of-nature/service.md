@@ -12,5 +12,5 @@ Privatpersonen und Vereinigungen, welche die Rolle des Menschen als ein Teil der
 * [OpenProject](https://www.openproject.org/)
 * [Orangescrum](https://www.orangescrum.org/)
 * [Wiki.js](https://wiki.js.org/)
-### Botanic Collection Administration and Data Integration
-* [LaboDaCore](https://nicklab-beta.apartofnature.org): Nehmen sie Kontakt mit mir auf, wenn sie einen Probe Zugang zur Anwendung benötigen.
+### Biologische Sammlungen - Verwaltung und Datenintegration
+* [LaboDaCore](https://nicklab-beta.apartofnature.org): Nehmen sie Kontakt mit mir auf, wenn sie die Anwendung testen wollen.
