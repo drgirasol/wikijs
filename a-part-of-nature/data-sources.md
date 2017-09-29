@@ -11,5 +11,6 @@
 * [Explore](/a-part-of-nature/exploration/names#sources)
 ## Observations
 * [Natural History Museum, London](http://data.nhm.ac.uk/)
+* [Global Biodiversity Information Facility](https://www.gbif.org/)
 ## Phylogeny & Taxonomy
 * [Tree of Life Web Project](http://tolweb.org/tree/)
