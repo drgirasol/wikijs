@@ -7,6 +7,7 @@
   * [Keys](/a-part-of-nature/exploration/keys)
   * [Names](/a-part-of-nature/exploration/names)
   * [Relations](/a-part-of-nature/exploration/relations)
+  * [Environment](/a-part-of-nature/exploration/environment)
 * [Observe](/a-part-of-nature/observation)
 * [Philosophy](/a-part-of-nature/philosophy)
 
