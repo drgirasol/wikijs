@@ -7,5 +7,7 @@ To understand, we need to open our eyes, to listen, to smell, to taste - thus to
 * Rheinland-Pfalz
 		* [ArtenFinder Service-Portal Rheinland-Pfalz](http://artenfinder.rlp.de)
 # How to preserve what we observe?
-## Fungi
+## Documentation
+* [Protocol](/a-part-of-nature/observation/protocol)
+### Fungi
 * [Voucher Specimen Collection, Preparation, Identification and Storage Protocol: Plants & Fungi](https://www.for.gov.bc.ca/hts/risc/pubs/tebiodiv/voucherb/assets/voucherb.pdf)
