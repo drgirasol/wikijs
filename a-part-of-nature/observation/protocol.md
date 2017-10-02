@@ -2,13 +2,13 @@
 <!-- SUBTITLE: Standards and Procedures -->
 
 # Observation
-## Basics (obligatory)
+## Basic (obligatory) documentation
 * Textual information
   * Identifier (Taxon name) (var minimal taxonomic resolution)
   * Location (Geography) (var minimal geographic resoltution)
   * Time of observation (var minimal temporal resolution)
   * Authors (Observer, photographer, scientist)
-## Additional (optional)
+## Additional (optional) documentation
 * Textual information
   * Other records (trait measurement, DNA Sequence)
   * Location details (any information above the minimal resolution)
