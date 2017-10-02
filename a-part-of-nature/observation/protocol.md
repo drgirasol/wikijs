@@ -4,11 +4,21 @@
 # Observation
 ## Basics (obligatory)
 * Textual information
-  * Taxon name (var minimal taxonomic resolution)
-  * Geographic location (var minimal geographic resoltution)
+  * Identifier (Taxon name) (var minimal taxonomic resolution)
+  * Location (Geography) (var minimal geographic resoltution)
   * Time of observation (var minimal temporal resolution)
+  * Authors (Observer, photographer, scientist)
 ## Additional (optional)
 * Textual information
   * Other records (trait measurement, DNA Sequence)
   * Location details (any information above the minimal resolution)
 * Media (Images, Sounds, Videos)
+# Standards
+* Basic information 
+  * taxonNameSource
+  * taxonNameId (of source)
+  * geoField (e.g. country)
+  * geoValue (e.g. Germany)
+  * timestamp
+* Additional information
+  * Template [Darwin Core](http://rs.tdwg.org/dwc/index.htm)
