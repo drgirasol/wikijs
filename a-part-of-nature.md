@@ -9,6 +9,7 @@
   * [Relations](/a-part-of-nature/exploration/relations)
   * [Environment](/a-part-of-nature/exploration/environment)
 * [Observe](/a-part-of-nature/observation) (input)
+  * [Protocol](/a-part-of-nature/observation/protocol)
 * [Philosophy](/a-part-of-nature/philosophy)
 
 * Addendum
