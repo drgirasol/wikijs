@@ -21,4 +21,4 @@
   * geoValue (e.g. Germany)
   * timestamp
 * Additional information
-  * Template [Darwin Core](http://rs.tdwg.org/dwc/index.htm)
+  * Template [Darwin Core](http://rs.tdwg.org/dwc/index.htm), [Terms](https://github.com/tdwg/dwc/blob/master/resources/dwc_terms.csv)
