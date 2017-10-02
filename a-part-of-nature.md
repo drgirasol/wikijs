@@ -3,12 +3,12 @@
 # Index
 * [Analyse](/a-part-of-nature/data-analysis)
   * [DNA](/a-part-of-nature/data-analysis/DNA)
-* [Explore](/a-part-of-nature/exploration)
+* [Explore](/a-part-of-nature/exploration) (output)
   * [Keys](/a-part-of-nature/exploration/keys)
   * [Names](/a-part-of-nature/exploration/names)
   * [Relations](/a-part-of-nature/exploration/relations)
   * [Environment](/a-part-of-nature/exploration/environment)
-* [Observe](/a-part-of-nature/observation)
+* [Observe](/a-part-of-nature/observation) (input)
 * [Philosophy](/a-part-of-nature/philosophy)
 
 * Addendum
