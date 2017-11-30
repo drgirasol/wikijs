@@ -30,6 +30,7 @@
 ### Germany
 * [Arnulfs Naturwelt](http://arnulfs-naturwelt.de/)
 * [Deutsche Botanische Gesellschaft (DBG) e.V., Berlin](https://www.deutsche-botanische-gesellschaft.de/)
+* [Verband deutscher Wildsamen- und Wildpflanzenproduzenten e.V.](http://www.natur-im-vww.de/)
 ### International
 * [International Plant Phenotyping Network - IPPN](https://www.plant-phenotyping.org/)
 ## Animals
