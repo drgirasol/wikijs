@@ -20,3 +20,4 @@ In der [Listen Ansicht](/nick-lab/accession-list-view) findet man die Spalte Ide
 ![Statusverificationlistview](/uploads/nicklab/statusverificationlistview.png "Statusverificationlistview"){.align-center}
 # Details zur Bestätigung
 Details zu einer Bestätigung werden in Form eines Kommentars mit dem Betreff "Determination" gespeichert. Der Kommentar selbst sollte die verwendete Literatur und, wenn nicht selbst bestimmt wurde, den Namen der Person, welche die Bestimmung durchgeführt hat, enthalten.
+![Collmngmnt Identity Curation](/uploads/collection/collmngmnt-identity-curation.png "Collmngmnt Identity Curation")
