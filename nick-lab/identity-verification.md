@@ -19,5 +19,8 @@ In der [Listen Ansicht](/nick-lab/accession-list-view) findet man die Spalte Ide
 
 ![Statusverificationlistview](/uploads/nicklab/statusverificationlistview.png "Statusverificationlistview"){.align-center}
 # Details zur Bestätigung
-Details zu einer Bestätigung werden in Form eines Kommentars mit dem Betreff "Determination" gespeichert. Der Kommentar selbst sollte die verwendete Literatur und, wenn nicht selbst bestimmt wurde, den Namen der Person, welche die Bestimmung durchgeführt hat, enthalten.
+Eine vollständige Bestätigung der Identität besteht aus 
+* Namen der Person, welche die Prüfung durchgeführt hat
+* dem Datum der Prüfung
+* und detailierten Angaben zur verwendeten Literatur mit Hinweisen zu evtl. Abweichungen
 ![Collmngmnt Identity Curation](/uploads/collection/collmngmnt-identity-curation.png "Collmngmnt Identity Curation")
