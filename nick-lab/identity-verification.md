@@ -5,8 +5,8 @@
 Jeder Akzession ist ein bestimmter Name zugewiesen. Das ist entweder ein Art Name oder, wenn nur der Name der Gattung bekannt ist, der Name der Gattung mit dem Zusatz "species". Die Information welchen Namen die Akzession besitzt stammt in erster Linie von der Bezugsquelle (dem Provider). Die Anwendung geht davon aus, dass die Namenszuordnung intern noch nicht überprüft wurde. Beim Anlegen einer neuen Akzession befindet sich daher kein Haken bei "Wurde die Identität überprüft?".
 ![Collmngmnt Newaccession](/uploads/collection/collmngmnt-newaccession.png "Collmngmnt Newaccession")
 # Aktueller Status
-## Detail Ansicht
-In der [Detail Ansicht](/nick-lab/accession-detail-view) zu einer Akzession findet man unter Identität einen Hinweis zum aktuellen Status der Namenszuodnung.
+## Editor
+Im Editor findet man unter Identität einen Hinweis zum aktuellen Status der Namenszuodnung.
 **Beispiel Akzession mit fehlender Bestätigung der Identität (roter Stern)**
 ![Collmngmnt Identity Short Eg Nocuration](/uploads/collection/collmngmnt-identity-short-eg-nocuration.png "Collmngmnt Identity Short Eg Nocuration")
 **Beispiel Akzession mit vollständiger Bestätigung der Identität (grüner Stern)**
