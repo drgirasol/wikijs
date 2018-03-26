@@ -9,6 +9,7 @@ Der Editor wird aufgerufen,
 * indem man in der Listen Ansicht die ID einer Akzession anklickt
 * indem man im Verwaltungsmenü auf Bearbeiten klickt und anschließend die ID der gewünschten Akzession eingibt.
 ## Identität
+![Collmngmnt Identity Name](/uploads/collection/collmngmnt-identity-name.png "Collmngmnt Identity Name")
 ![idname](/uploads/collection/collMngmnt-identity-name.png "idname")
 ![idaddinfo](/uploads/collection/collMngmnt-identity-additionalInfo.png "idaddinfo")
 ![idcuration](/uploads/collection/collMngmnt-identity-curation.png "idcuration")
