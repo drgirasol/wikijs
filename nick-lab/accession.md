@@ -23,15 +23,15 @@ Der Editor wird aufgerufen,
 **Geographische Herkunft**
 ![Collmngmnt Origin Geography](/uploads/collection/collmngmnt-origin-geography.png "Collmngmnt Origin Geography")
 ## Standorte
-![Acceditlocations](/uploads/nicklab/acceditlocations.png "Acceditlocations")
+![Collmngmnt Locations](/uploads/collection/collmngmnt-locations.png "Collmngmnt Locations")
 ## Saatgut
-![Acceditseeds](/uploads/nicklab/acceditseeds.png "Acceditseeds")
+![Collmngmnt Seeds](/uploads/collection/collmngmnt-seeds.png "Collmngmnt Seeds")
 ## Kommentare
-![Acceditcomments](/uploads/nicklab/acceditcomments.png "Acceditcomments")
+
 # Verknüpfte Daten
 Zusätzlich werden im Editor Verknüpfte Daten angezeigt.
 ## Editionen
-![Accshoweditions](/uploads/nicklab/accshoweditions.png "Accshoweditions")
+
 ## Dokumente
-![Accshowdocs](/uploads/nicklab/accshowdocs.png "Accshowdocs")
+
 
