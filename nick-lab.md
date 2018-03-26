@@ -1,4 +1,4 @@
-<!-- TITLE: Nick Lab -->
+<!-- TITLE: Labodacore -->
 <!-- SUBTITLE: Verwaltung einer botanischen Sammlung und Integration wissenschaftlicher Daten  -->
 
 # Einleitung
