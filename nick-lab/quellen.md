@@ -8,5 +8,5 @@ Die Bezugsquellen Datenbank (auch Provider Datenbank genannt) hilft dabei die Fr
 **Beschreibung**: Details zur Quelle (z.B. kompletter Name und Anschrift)
 **Herkunftsland**: z.B. Deutschland
 **Typ**: Quellen Klasse (z.B. botanischer Garten, kommerzieller Anbieter, DNA Bank, usw.).
-**Web**: Adresse des Internetauftritts (z.B. http://www.bfreequest.org)
-**Email**: Email Adresse des Ansprechpartners
+**Web** (optional): Adresse des Internetauftritts (z.B. http://www.bfreequest.org)
+**Email** (optional): Email Adresse des Ansprechpartners
