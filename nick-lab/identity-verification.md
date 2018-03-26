@@ -17,7 +17,7 @@ In der [Listen Ansicht](/nick-lab/accession-list-view) findet man die Spalte Ide
 * orangener Haken = Identität wurde verifiziert. Angaben zur Methodik fehlen.
 * rotes Fragezeichen = Identität wurde nicht verifiziert.
 
-![Statusverificationlistview](/uploads/nicklab/statusverificationlistview.png "Statusverificationlistview"){.align-center}
+![Statusverificationlistview](/uploads/nicklab/statusverificationlistview.png "Statusverificationlistview")
 # Details zur Bestätigung
 Eine vollständige Bestätigung der Identität besteht aus 
 * Namen der Person, welche die Prüfung durchgeführt hat
